@@ -11,7 +11,7 @@ _No unreleased changes._
 
 ## [2.0.0] - 2026-07-27
 
-First complete release of the full **CIF Ancient Systems Test Series**: all eight case studies written, graded, and reconciled, with the capstone synthesis in place.
+First complete release of the full **CIF Ancient Systems Test Series**: all eight case studies written, graded, and reconciled, with the capstone synthesis in place. Published to Zenodo — version DOI [10.5281/zenodo.21628073](https://doi.org/10.5281/zenodo.21628073), concept DOI [10.5281/zenodo.21618895](https://doi.org/10.5281/zenodo.21618895) — and tagged [`v2.0.0`](https://github.com/derekhone/cif-giza-transmission/releases/tag/v2.0.0) on GitHub.
 
 ### Added
 - **All eight case studies complete**, each with its own `sources.md`:

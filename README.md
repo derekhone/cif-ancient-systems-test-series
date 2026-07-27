@@ -2,7 +2,7 @@
 
 ### Applying the Coherent Inheritance Framework to real cases of knowledge transmission, loss, and survival across deep time
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21618896-blue.svg)](https://doi.org/10.5281/zenodo.21618896)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21618895-blue.svg)](https://doi.org/10.5281/zenodo.21618895)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 > **What this is:** A series of disciplined, fully-cited case studies that stress-test the **Coherent Inheritance Framework (CIF)** against real archaeological and historical evidence — cases where human systems either preserved critical knowledge across generations, or lost it. Each study is written to be falsifiable: it asks not only where CIF is supported, but where the evidence *challenges* it.
@@ -94,9 +94,13 @@ The capstone [`synthesis/README.md`](./synthesis/README.md) draws the cross-case
 
 ## Cite this work
 
-> Hone, D. (2026). *CIF Ancient Systems Test Series (incorporating The Giza Transmission Hypothesis)*. Remnant Fieldworks Inc. https://doi.org/10.5281/zenodo.21618896
+> Hone, D. A. (2026). *CIF Ancient Systems Test Series (incorporating The Giza Transmission Hypothesis)* (Version 2.0.0). Remnant Fieldworks Inc. https://doi.org/10.5281/zenodo.21628073
 
-A machine-readable citation is provided in [`CITATION.cff`](./CITATION.cff). The DOI above currently resolves to the foundational Giza case study; a series-level DOI will be minted when the full series is compiled.
+A machine-readable citation is provided in [`CITATION.cff`](./CITATION.cff).
+
+- **Concept DOI** (always resolves to the latest version): [10.5281/zenodo.21618895](https://doi.org/10.5281/zenodo.21618895)
+- **Version DOI** (this 2.0.0 series release): [10.5281/zenodo.21628073](https://doi.org/10.5281/zenodo.21628073)
+- **Foundational Giza case study** (1.0.0): [10.5281/zenodo.21618896](https://doi.org/10.5281/zenodo.21618896)
 
 ---
 
