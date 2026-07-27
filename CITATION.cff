@@ -12,7 +12,7 @@ abstract: >-
   ends with a shared verdict taxonomy and a mandatory falsification check. The
   series includes the framework document, a cross-disciplinary grading review,
   and a capstone synthesis.
-version: 2.0.2
+version: 2.1.0
 date-released: 2026-07-27
 authors:
   - family-names: Hone

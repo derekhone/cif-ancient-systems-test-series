@@ -9,6 +9,22 @@ and this project uses [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
 
 _No unreleased changes._
 
+## [2.1.0] - 2026-07-27
+
+Minor release. Completes the per-document PDF set and corrects repository/status metadata across the series.
+
+### Added
+- **PDF renderings for case studies 02–08**: `Aboriginal_Oral_Traditions_CIF.pdf`, `Antikythera_Mechanism_CIF.pdf`, `Late_Bronze_Age_Collapse_CIF.pdf`, `Japanese_Tsunami_Stones_CIF.pdf`, `Polynesian_Navigation_CIF.pdf`, `Gobekli_Tepe_CIF.pdf`, and `Undeciphered_Scripts_CIF.pdf`. Case 01 already carried its own PDF.
+- **Capstone synthesis PDF**: `synthesis/CIF_Ancient_Systems_Synthesis.pdf`, rendered from `synthesis/README.md`.
+
+### Changed
+- **README status table**: cases 02–08 now show as **Published** (included in the series Zenodo deposit at v2.0.2+), each linking the series concept DOI, replacing the previous *Written* status. Footnote updated to explain the series-deposit vs. foundational-DOI distinction.
+- **`.zenodo.json` version** bumped to `2.1.0`.
+- **`CITATION.cff` version** bumped to `2.1.0`.
+
+### Fixed
+- **`.zenodo.json` source URL**: corrected the `notes` field from the old repository name `cif-giza-transmission` to the current `cif-ancient-systems-test-series`.
+
 ## [2.0.2] - 2026-07-27
 
 Patch release. Published to Zenodo — version DOI [10.5281/zenodo.21630213](https://doi.org/10.5281/zenodo.21630213), concept DOI [10.5281/zenodo.21618895](https://doi.org/10.5281/zenodo.21618895) — and tagged [`v2.0.2`](https://github.com/derekhone/cif-giza-transmission/releases/tag/v2.0.2) on GitHub.

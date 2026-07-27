@@ -66,15 +66,15 @@ Every case study in this series follows the same rules:
 | # | Case study | Core question | Status |
 | --- | --- | --- | --- |
 | 01 | [The Giza Transmission Hypothesis](./case-studies/01-giza-transmission/) | Can meaning, not just data, survive deep-time discontinuity? | ✅ **Published** — [DOI](https://doi.org/10.5281/zenodo.21618896) · *Speculative / thought-experiment* |
-| 02 | [Aboriginal Oral Traditions](./case-studies/02-aboriginal-oral-traditions/) | Can active oral transmission preserve real information across millennia? | ✅ **Written** — *Refines CIF* |
-| 03 | [The Antikythera Mechanism](./case-studies/03-antikythera-mechanism/) | What good is an invention if the civilization cannot preserve the capability to rebuild it? | ✅ **Written** — *Supported* |
-| 04 | [The Late Bronze Age Collapse](./case-studies/04-late-bronze-age-collapse/) | What happens to inheritance when interconnected systems fail together? | ✅ **Written** — *Supported* |
-| 05 | [Japanese Tsunami Stones](./case-studies/05-tsunami-stones/) | Does an inherited boundary marker actually change behavior generations later? | ✅ **Written** — *Supported* |
-| 06 | [Polynesian Wayfinding](./case-studies/06-polynesian-navigation/) | How does a navigation method survive with no written record at all? | ✅ **Written** — *Supported* |
-| 07 | [Göbekli Tepe](./case-studies/07-gobekli-tepe/) | What was being transmitted before writing, agriculture, and cities? | ✅ **Written** — *Supported* |
-| 08 | [Undeciphered Scripts](./case-studies/08-undeciphered-scripts/) | When does data survive but meaning does not? | ✅ **Written** — *Supported* |
+| 02 | [Aboriginal Oral Traditions](./case-studies/02-aboriginal-oral-traditions/) | Can active oral transmission preserve real information across millennia? | ✅ **Published** — *Refines CIF* · [series DOI](https://doi.org/10.5281/zenodo.21618895) |
+| 03 | [The Antikythera Mechanism](./case-studies/03-antikythera-mechanism/) | What good is an invention if the civilization cannot preserve the capability to rebuild it? | ✅ **Published** — *Supported* · [series DOI](https://doi.org/10.5281/zenodo.21618895) |
+| 04 | [The Late Bronze Age Collapse](./case-studies/04-late-bronze-age-collapse/) | What happens to inheritance when interconnected systems fail together? | ✅ **Published** — *Supported* · [series DOI](https://doi.org/10.5281/zenodo.21618895) |
+| 05 | [Japanese Tsunami Stones](./case-studies/05-tsunami-stones/) | Does an inherited boundary marker actually change behavior generations later? | ✅ **Published** — *Supported* · [series DOI](https://doi.org/10.5281/zenodo.21618895) |
+| 06 | [Polynesian Wayfinding](./case-studies/06-polynesian-navigation/) | How does a navigation method survive with no written record at all? | ✅ **Published** — *Supported* · [series DOI](https://doi.org/10.5281/zenodo.21618895) |
+| 07 | [Göbekli Tepe](./case-studies/07-gobekli-tepe/) | What was being transmitted before writing, agriculture, and cities? | ✅ **Published** — *Supported* · [series DOI](https://doi.org/10.5281/zenodo.21618895) |
+| 08 | [Undeciphered Scripts](./case-studies/08-undeciphered-scripts/) | When does data survive but meaning does not? | ✅ **Published** — *Supported* · [series DOI](https://doi.org/10.5281/zenodo.21618895) |
 
-*Written = drafted, internally reviewed, and graded (see [`GRADING.md`](./GRADING.md)). The capstone [`synthesis/`](./synthesis/) is complete. Published = additionally minted with its own DOI.*
+*Published = included in the series Zenodo deposit (Concept DOI [10.5281/zenodo.21618895](https://doi.org/10.5281/zenodo.21618895)). Case 01 additionally carries its own foundational DOI. Published = minted at [10.5281/zenodo.21630213](https://doi.org/10.5281/zenodo.21630213) (v2.0.2, July 2026).*
 
 ---
 
