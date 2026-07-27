@@ -5,7 +5,7 @@
 *Derek Hone · Remnant Fieldworks Inc.*  
 *Coherent Inheritance Framework Series*
 
-**DOI:** [10.5281/zenodo.21628073](https://doi.org/10.5281/zenodo.21628073)  
+**DOI:** [10.5281/zenodo.21629986](https://doi.org/10.5281/zenodo.21629986)  
 **Version:** 2.0.0  
 **Published:** 2025
 
@@ -729,7 +729,7 @@ Giza asked the question. The series answered it.
 **Series Title:** CIF Ancient Systems Test Series  
 **Version:** 2.0.0  
 **Publication Date:** 2025  
-**DOI (Series):** [10.5281/zenodo.21628073](https://doi.org/10.5281/zenodo.21628073) (version)  
+**DOI (Series):** [10.5281/zenodo.21629986](https://doi.org/10.5281/zenodo.21629986) (version)  
 **DOI (Concept):** [10.5281/zenodo.21618895](https://doi.org/10.5281/zenodo.21618895)  
 **Repository:** [github.com/derekhone/cif-giza-transmission](https://github.com/derekhone/cif-giza-transmission)  
 **Website:** [executionproof.io](https://executionproof.io)

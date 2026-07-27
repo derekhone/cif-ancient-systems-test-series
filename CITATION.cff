@@ -19,18 +19,18 @@ authors:
     given-names: Derek Adam
     affiliation: Remnant Fieldworks Inc.
     email: derek@ownerremnantfieldworks.com
-doi: 10.5281/zenodo.21628073
+doi: 10.5281/zenodo.21629986
 identifiers:
   - type: doi
-    value: 10.5281/zenodo.21628073
-    description: "Version DOI for the 2.0.0 series release."
+    value: 10.5281/zenodo.21629986
+    description: "Version DOI for the 2.0.1 series release."
   - type: doi
     value: 10.5281/zenodo.21618895
     description: "Concept DOI (always resolves to the latest version of the series)."
   - type: doi
     value: 10.5281/zenodo.21618896
     description: "Version DOI of the foundational Giza case study (1.0.0)."
-url: https://doi.org/10.5281/zenodo.21628073
+url: https://doi.org/10.5281/zenodo.21629986
 license: CC-BY-4.0
 keywords:
   - Coherent Inheritance Framework
