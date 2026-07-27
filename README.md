@@ -2,7 +2,7 @@
 
 ### Applying the Coherent Inheritance Framework to real cases of knowledge transmission, loss, and survival across deep time
 
-[![DOI](https://placehold.co/1200x600/e2e8f0/1e293b?text=A_DOI_badge_image_from_Zenodo_displaying_the_badge)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21618896-blue.svg)](https://doi.org/10.5281/zenodo.21618896)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 > **What this is:** A series of disciplined, fully-cited case studies that stress-test the **Coherent Inheritance Framework (CIF)** against real archaeological and historical evidence — cases where human systems either preserved critical knowledge across generations, or lost it. Each study is written to be falsifiable: it asks not only where CIF is supported, but where the evidence *challenges* it.
@@ -17,14 +17,28 @@ The **Coherent Inheritance Framework (CIF)** is a candidate cross-domain framewo
 
 ### The six axioms (summary)
 
-1. **Inheritance** — every system begins by receiving structure it did not itself originate.
-2. **Fidelity** — what survives transmission is not the whole of what was sent; loss is the default.
-3. **Divergence** — inherited structure drifts from its source unless actively corrected.
-4. **Coherence** — systems that persist maintain internal alignment across their parts and across time.
-5. **Boundary** — a system must mark and defend the limits within which its inheritance remains valid.
-6. **Renewal** — continuity across discontinuity requires re-instantiation, not mere storage.
+Treated as **design propositions**, not universal physical laws. See the [framework document](./framework/CIF_Framework.md) for the full statement of each.
 
-### The five pillars (summary)
+1. **Systems operate within structured fields** — no system is independent of its environment, inputs, constraints, or relationships.
+2. **Productive transfer depends on appropriate matching** — the right intervention at the wrong time, scale, or state may fail or cause harm.
+3. **Drift and noise may contain recoverable inheritance** — examine errors, losses, and waste for recoverable information before discarding.
+4. **Coherence is the condition of stable operation** — organized continuity under change, not stillness or uniformity.
+5. **Safe operation must be bounded** — safety is a boundary and a hard constraint, not merely a feature.
+6. **Trunks generate forests** — a foundational mechanism can seed many implementations across domains.
+
+### Two complementary five-part lenses
+
+CIF applies two distinct five-part tools; they share neither meaning nor numbering and must not be conflated.
+
+**The Five Engineering Pillars** — a *prospective* method for governing a live system (used in the Phase-1 case studies 01, 02, 05):
+
+1. **Sense the field** — observe the actual state before intervening.
+2. **Match the response** — choose an intervention appropriate to the measured state.
+3. **Adapt under change** — keep measuring and adjust within permitted limits.
+4. **Recirculate recoverable waste** — return useful output and failure information safely into the system.
+5. **Enforce non-harm coherence** — maintain hard boundaries against disproportionate harm.
+
+**The Five Inheritance Layers** — a *retrospective* diagnostic for what a system preserved or lost across time (used in the Phase-2 case studies 03, 04, 06, 07, 08):
 
 1. **Physical form** — the material substrate carrying the inheritance.
 2. **Data** — the recoverable signal.
@@ -51,22 +65,24 @@ Every case study in this series follows the same rules:
 
 | # | Case study | Core question | Status |
 | --- | --- | --- | --- |
-| 01 | [The Giza Transmission Hypothesis](./case-studies/01-giza-transmission/) | Can meaning, not just data, survive deep-time discontinuity? | ✅ **Published** — [DOI](https://doi.org/10.5281/zenodo.21618896) |
-| 02 | [Aboriginal Oral Traditions](./case-studies/02-aboriginal-oral-traditions/) | Can active oral transmission preserve real information across millennia? | ✅ **Draft** |
-| 03 | [The Antikythera Mechanism](./case-studies/03-antikythera-mechanism/) | What good is an invention if the civilization cannot preserve the capability to rebuild it? | 🔜 In preparation |
-| 04 | [The Late Bronze Age Collapse](./case-studies/04-late-bronze-age-collapse/) | What happens to inheritance when interconnected systems fail together? | 🔜 In preparation |
-| 05 | [Japanese Tsunami Stones](./case-studies/05-tsunami-stones/) | Does an inherited boundary marker actually change behavior generations later? | ✅ **Draft** |
-| 06 | [Polynesian Wayfinding](./case-studies/06-polynesian-navigation/) | How does a navigation method survive with no written record at all? | 🔜 In preparation |
-| 07 | [Göbekli Tepe](./case-studies/07-gobekli-tepe/) | What was being transmitted before writing, agriculture, and cities? | 🔜 In preparation |
-| 08 | [Undeciphered Scripts](./case-studies/08-undeciphered-scripts/) | When does data survive but meaning does not? | 🔜 In preparation |
+| 01 | [The Giza Transmission Hypothesis](./case-studies/01-giza-transmission/) | Can meaning, not just data, survive deep-time discontinuity? | ✅ **Published** — [DOI](https://doi.org/10.5281/zenodo.21618896) · *Speculative / thought-experiment* |
+| 02 | [Aboriginal Oral Traditions](./case-studies/02-aboriginal-oral-traditions/) | Can active oral transmission preserve real information across millennia? | ✅ **Written** — *Refines CIF* |
+| 03 | [The Antikythera Mechanism](./case-studies/03-antikythera-mechanism/) | What good is an invention if the civilization cannot preserve the capability to rebuild it? | ✅ **Written** — *Supported* |
+| 04 | [The Late Bronze Age Collapse](./case-studies/04-late-bronze-age-collapse/) | What happens to inheritance when interconnected systems fail together? | ✅ **Written** — *Supported* |
+| 05 | [Japanese Tsunami Stones](./case-studies/05-tsunami-stones/) | Does an inherited boundary marker actually change behavior generations later? | ✅ **Written** — *Supported* |
+| 06 | [Polynesian Wayfinding](./case-studies/06-polynesian-navigation/) | How does a navigation method survive with no written record at all? | ✅ **Written** — *Supported* |
+| 07 | [Göbekli Tepe](./case-studies/07-gobekli-tepe/) | What was being transmitted before writing, agriculture, and cities? | ✅ **Written** — *Supported* |
+| 08 | [Undeciphered Scripts](./case-studies/08-undeciphered-scripts/) | When does data survive but meaning does not? | ✅ **Written** — *Supported* |
 
-*Draft = written and internally reviewed, pending final series compilation. In preparation = scoped, not yet written.*
+*Written = drafted, internally reviewed, and graded (see [`GRADING.md`](./GRADING.md)), pending final series compilation and the capstone synthesis. Published = additionally minted with a DOI.*
 
 ---
 
 ## The framework document
 
-The full CIF description — status and provenance, central proposition, the six axioms, the five pillars, the canonical case-study structure, and why ancient systems are a useful proving ground — lives in [`framework/CIF_Framework.md`](./framework/CIF_Framework.md).
+The full CIF description — status and provenance, central proposition, the six axioms, the Five Engineering Pillars, the Five Inheritance Layers, the canonical case-study structure, and why ancient systems are a useful proving ground — lives in [`framework/CIF_Framework.md`](./framework/CIF_Framework.md).
+
+A cross-disciplinary **polymath grading review** of every case study, the framework document, and this README — scored against the Remnant Fieldworks highest-honesty quality bar — lives in [`GRADING.md`](./GRADING.md).
 
 ---
 

@@ -29,7 +29,7 @@ The central CIF proposition is:
 
 > **A system survives when it can preserve coherent inheritance through change without crossing the boundary of harm.**
 
-The framework is organized around six recurring concepts — **fields, resonance, coherence, drift, inheritance, and stewardship** — formalized into six axioms and five engineering pillars.
+The framework is organized around six recurring concepts — **fields, resonance, coherence, drift, inheritance, and stewardship** — formalized into six axioms and two complementary five-part lenses: the **Five Engineering Pillars** (a prospective method for governing a live system) and the **Five Inheritance Layers** (a retrospective diagnostic for what a system preserved or lost across time).
 
 ---
 
@@ -73,6 +73,24 @@ The pillars translate CIF from worldview into method.
 
 ---
 
+## The Five Inheritance Layers
+
+The Engineering Pillars above describe how an operator should *govern* a live system. When the question is instead **what survives across discontinuity** — which is the central question of every case study in this series — CIF uses a second, complementary five-part lens: the **Inheritance Layers**. These name the distinct things that can be preserved or lost independently of one another.
+
+**Layer 1 — Physical form.** The material substrate carrying the inheritance (stone, clay, wood, bronze, or — in the oral case — the human body and relationships). Can survive by design, by accident, or not at all.
+
+**Layer 2 — Data.** The recoverable signal encoded in the substrate: the marks, ratios, glyphs, or measurements. Data can survive intact even when nothing else does.
+
+**Layer 3 — Method.** The reproducible procedure that regenerates capability — how to build, run, or perform the thing, not merely a record that it existed.
+
+**Layer 4 — Intent.** The purpose and meaning the signal was meant to carry: why it was made, what it was for.
+
+**Layer 5 — Semantic continuity.** Whether a future receiver can *understand*, not merely *read* — the survival of the reader, the language, and the cultural/technical context that makes the data meaningful. This is the layer most often severed while Layers 1–2 remain perfectly intact.
+
+**Why two five-part schemes.** The Engineering Pillars are a *prospective governance* method (how to steward a system now); the Inheritance Layers are a *retrospective fidelity* diagnostic (what a system preserved or lost across time). They are distinct tools and must not be conflated: "Pillar 3" under the Engineering lens means *adapt under change*, while "Layer 3" under the Inheritance lens means *method*. Case studies state which lens they are applying (see the canonical structure below).
+
+---
+
 ## The Canonical Case-Study Structure
 
 Every case study in the CIF Ancient Systems Test Series follows this exact structure, established by Case Study #1 (*The Giza Transmission Hypothesis*):
@@ -82,8 +100,8 @@ Every case study in the CIF Ancient Systems Test Series follows this exact struc
 3. **Evidence Discipline**
 4. **Three Evidence Classes** — ESTABLISHED / PLAUSIBLE INFERENCE / SPECULATIVE
 5. **CIF Axiom Analysis** — all six axioms
-6. **CIF Pillar Analysis** — all five pillars
-7. **Fidelity Assessment** — qualitative status per layer (physical form, data, method, intent, semantic meaning, error log); no invented percentages
+6. **CIF Pillar Analysis** — all five of whichever lens fits the case. Phase-1 studies (01 Giza, 02 Aboriginal Oral Traditions, 05 Tsunami Stones) apply the **Five Engineering Pillars** (Sense / Match / Adapt / Recirculate / Enforce non-harm). Phase-2 studies (03 Antikythera, 04 Bronze Age Collapse, 06 Polynesian Wayfinding, 07 Göbekli Tepe, 08 Undeciphered Scripts) apply the **Five Inheritance Layers** (Physical form / Data / Method / Intent / Semantic continuity), because the governing question in those cases is *what survived across discontinuity* rather than *how to govern a live system*. Each study states which lens it uses.
+7. **Fidelity Assessment** — qualitative status per **Inheritance Layer** (physical form, data, method, intent, semantic meaning, error log); no invented percentages
 8. **Implications for the Present**
 9. **Design Requirements / Lessons Derived**
 10. **Conclusions** — numbered
