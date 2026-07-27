@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use or cite this work, please use the metadata below."
+title: "The Giza Transmission Hypothesis: A Coherent Inheritance Framework Thought Experiment in Deep-Time Information Preservation"
+version: 1.0.0
+date-released: 2026-07-27
+authors:
+  - family-names: Hone
+    given-names: Derek Adam
+    affiliation: Remnant Fieldworks Inc.
+    email: derek@ownerremnantfieldworks.com
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.21618896
+url: https://doi.org/10.5281/zenodo.21618896
+license: CC-BY-4.0
+keywords:
+  - Coherent Inheritance Framework
+  - CIF
+  - deep-time preservation
+  - information theory
+  - Giza
+  - Great Pyramid
+  - stewardship
+  - archival design
