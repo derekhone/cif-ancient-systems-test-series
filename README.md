@@ -74,7 +74,7 @@ Every case study in this series follows the same rules:
 | 07 | [Göbekli Tepe](./case-studies/07-gobekli-tepe/) | What was being transmitted before writing, agriculture, and cities? | ✅ **Written** — *Supported* |
 | 08 | [Undeciphered Scripts](./case-studies/08-undeciphered-scripts/) | When does data survive but meaning does not? | ✅ **Written** — *Supported* |
 
-*Written = drafted, internally reviewed, and graded (see [`GRADING.md`](./GRADING.md)), pending final series compilation and the capstone synthesis. Published = additionally minted with a DOI.*
+*Written = drafted, internally reviewed, and graded (see [`GRADING.md`](./GRADING.md)). The capstone [`synthesis/`](./synthesis/) is complete. Published = additionally minted with its own DOI.*
 
 ---
 
@@ -88,7 +88,7 @@ A cross-disciplinary **polymath grading review** of every case study, the framew
 
 ## Synthesis
 
-A capstone [`synthesis/`](./synthesis/) document will draw the cross-case pattern together once the case studies are complete: where CIF held, where it was refined, and where the evidence pushed back. It is intentionally written *last*, after the cases, so the pattern is read out of the evidence rather than imposed on it.
+The capstone [`synthesis/README.md`](./synthesis/README.md) draws the cross-case pattern together: where CIF held, where it was refined, and where the evidence pushed back. It was written *last*, after all eight cases, so the pattern is read out of the evidence rather than imposed on it — including the series' most uncomfortable finding, that the anti-drift framework had itself drifted its own vocabulary between phases.
 
 ---
 
