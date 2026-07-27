@@ -325,7 +325,7 @@ Between approximately 1250 and 1150 BCE, nearly every major civilization in the 
 
 ### CIF Verdict
 
-**SUPPORTED.** The Late Bronze Age Collapse is proof that when the network is the system, and the network collapses, the system dies — even if fragments of the data survive. A system optimized for efficiency over resilience, that locks specialized knowledge to a single institutional context, is catastrophically fragile. It works brilliantly until it doesn't. And when it fails, it fails completely. The Greek Dark Ages demonstrate that recovery after such collapse is not a "reboot" but a **rebuilding from scratch**, and it takes far longer than the collapse itself.
+**SUPPORTED.** The Late Bronze Age Collapse demonstrates that when the network is the system, and the network collapses, the system dies — even if fragments of the data survive. A system optimized for efficiency over resilience, that locks specialized knowledge to a single institutional context, is catastrophically fragile. It works brilliantly until it doesn't. And when it fails, it fails completely. The Greek Dark Ages demonstrate that recovery after such collapse is not a "reboot" but a **rebuilding from scratch**, and it takes far longer than the collapse itself.
 
 ---
 
@@ -457,7 +457,7 @@ Non-instrument wayfinding across thousands of miles of open ocean using stars, s
 
 ### CIF Verdict
 
-**SUPPORTED — with a critical addition.** Polynesian navigation proves that **some knowledge cannot be written down**. The integration of cues, the calibration of senses, the real-time judgment under uncertainty — these are **in the body of the navigator**, not in any external medium. CIF's Pillar 5 (semantic continuity) is the linchpin. In Hawaiʻi, Pillar 5 was severed — the last generation of navigators died, and with them, the ability to read the ocean as a navigational text. Recovery was possible only because **one lineage survived** — Mau Piailug held the unbroken tradition. When Mau taught Nainoa, Pillar 5 was restored. But this is not a story of perfect transmission. The revived tradition is transformed — it works, but it is not identical to the pre-contact system. **For embodied knowledge, Pillar 5 cannot be encoded externally. It must be transmitted person-to-person, master to apprentice, through years of practice. If the living chain is broken everywhere, the knowledge is gone forever.**
+**SUPPORTED — with a critical addition.** Polynesian navigation demonstrates that **some knowledge cannot be written down**. The integration of cues, the calibration of senses, the real-time judgment under uncertainty — these are **in the body of the navigator**, not in any external medium. CIF's Pillar 5 (semantic continuity) is the linchpin. In Hawaiʻi, Pillar 5 was severed — the last generation of navigators died, and with them, the ability to read the ocean as a navigational text. Recovery was possible only because **one lineage survived** — Mau Piailug held the unbroken tradition. When Mau taught Nainoa, Pillar 5 was restored. But this is not a story of perfect transmission. The revived tradition is transformed — it works, but it is not identical to the pre-contact system. **For embodied knowledge, Pillar 5 cannot be encoded externally. It must be transmitted person-to-person, master to apprentice, through years of practice. If the living chain is broken everywhere, the knowledge is gone forever.**
 
 ---
 
@@ -517,7 +517,7 @@ The oldest known monumental architecture in the world, built approximately 9600�
 
 24. CIF Axiom 6 (trunks generate forests) holds: the T-pillar tradition propagated across a regional network. But the trunk did not encode **how to regenerate the tradition** after the cultural forest died. The inheritance was operational, not archival.
 
-25. Göbekli Tepe proves that **writing, agriculture, and hierarchy are not necessary** for multi-generational transmission of complex knowledge. What **is** necessary is **cultural continuity** — an unbroken line of readers who share the interpretive key.
+25. Göbekli Tepe demonstrates that **writing, agriculture, and hierarchy are not necessary** for multi-generational transmission of complex knowledge. What **is** necessary is **cultural continuity** — an unbroken line of readers who share the interpretive key.
 
 26. Modern implications: design systems and visual languages transmit durably only while the interpretive community persists; open-source and volunteer-driven projects demonstrate that intrinsic motivation (shared belief in the project's value) can replace hierarchical control; physical monuments as error-correction anchors (reference implementations, templates); the burial as a clear "this is finished, do not modify" marker.
 
@@ -525,7 +525,7 @@ The oldest known monumental architecture in the world, built approximately 9600�
 
 ### CIF Verdict
 
-**SUPPORTED.** Göbekli Tepe is proof that you do not need writing, cities, or kings to transmit complex knowledge across centuries — **but you do need cultural continuity**. The site sustained a coherent symbolic and architectural tradition for 600–800 years using physical monuments as error-correction anchors and oral/ritual practice as the living transmission layer. But when the cultural line broke, the monuments became unreadable. The pillars survived. The meaning did not. **Pillar 5 requires either continuous cultural transmission or explicit encoding for discontinuous receivers. Göbekli Tepe bet on continuity. The bet worked for 600 years. When continuity failed, the inheritance became archaeology.**
+**SUPPORTED.** Göbekli Tepe demonstrates that you do not need writing, cities, or kings to transmit complex knowledge across centuries — **but you do need cultural continuity**. The site sustained a coherent symbolic and architectural tradition for 600–800 years using physical monuments as error-correction anchors and oral/ritual practice as the living transmission layer. But when the cultural line broke, the monuments became unreadable. The pillars survived. The meaning did not. **Pillar 5 requires either continuous cultural transmission or explicit encoding for discontinuous receivers. Göbekli Tepe bet on continuity. The bet worked for 600 years. When continuity failed, the inheritance became archaeology.**
 
 ---
 
@@ -599,7 +599,7 @@ Three major ancient writing systems remain undeciphered despite the physical art
 
 ### CIF Verdict
 
-**SUPPORTED.** Undeciphered scripts are the purest test case for CIF's distinction between data transmission (Pillar 2) and semantic transmission (Pillar 5). The Indus seals, Linear A tablets, and Rongorongo tablets are physical marvels — intact, stable, legible. The data layer is perfect. The meaning is gone. The Indus seals remain undeciphered not because the stone has degraded, not because the symbols are unclear, not because archaeologists lack effort or skill. They remain undeciphered because **the reader is dead, the language is extinct, and the cultural key is gone**. CIF stands. **Pillar 5 is not optional. Semantic continuity is not a luxury. If you transmit data without transmitting the capability to interpret it, you have transmitted a beautiful, perfect, unreadable secret — and your descendants will categorize it as "undeciphered."**
+**SUPPORTED.** Undeciphered scripts are the purest test case for CIF's distinction between data transmission (Pillar 2) and semantic transmission (Pillar 5). The Indus seals, Linear A tablets, and Rongorongo tablets are physical marvels — intact, stable, legible. The data layer is perfect. The meaning is gone. The Indus seals remain undeciphered not because the stone has degraded, not because the symbols are unclear, not because archaeologists lack effort or skill. They remain undeciphered because **the reader is dead, the language is extinct, and the cultural key is gone**. This case supports CIF's central claim: **Pillar 5 is not optional. Semantic continuity is not a luxury. If you transmit data without transmitting the capability to interpret it, you have transmitted a beautiful, perfect, unreadable secret — and your descendants will categorize it as "undeciphered."**
 
 ---
 
@@ -617,7 +617,7 @@ The eight cases form a coherent pattern when viewed through the CIF lens:
 
 4. **Tsunami stones**: Encoding a warning is solvable (technical problem solved); enforcing it across generations is not (human/behavioral problem unsolved). Most warnings failed because compliance decayed, not because encoding failed.
 
-5. **Undeciphered scripts**: The purest proof that data (Pillars 1–2) without semantic continuity (Pillar 5) is not inheritance. Perfect data preservation + lost reader = unreadable noise.
+5. **Undeciphered scripts**: The clearest illustration that data (Pillars 1–2) without semantic continuity (Pillar 5) is not inheritance. Perfect data preservation + lost reader = unreadable noise.
 
 ### Core Lessons
 
@@ -731,7 +731,7 @@ Giza asked the question. The series answered it.
 **Publication Date:** 2025  
 **DOI (Series):** [10.5281/zenodo.21628073](https://doi.org/10.5281/zenodo.21628073) (version)  
 **DOI (Concept):** [10.5281/zenodo.21618895](https://doi.org/10.5281/zenodo.21618895)  
-**Repository:** [github.com/derekjhone/cif-giza-transmission](https://github.com/derekjhone/cif-giza-transmission)  
+**Repository:** [github.com/derekhone/cif-giza-transmission](https://github.com/derekhone/cif-giza-transmission)  
 **Website:** [executionproof.io](https://executionproof.io)
 
 ### Acknowledgments
