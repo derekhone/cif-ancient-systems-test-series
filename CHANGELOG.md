@@ -9,6 +9,13 @@ and this project uses [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
 
 _No unreleased changes._
 
+## [2.0.2] - 2026-07-27
+
+Patch release. Published to Zenodo — version DOI [10.5281/zenodo.21630213](https://doi.org/10.5281/zenodo.21630213), concept DOI [10.5281/zenodo.21618895](https://doi.org/10.5281/zenodo.21618895) — and tagged [`v2.0.2`](https://github.com/derekhone/cif-giza-transmission/releases/tag/v2.0.2) on GitHub.
+
+### Changed
+- **Cleaned the Zenodo source archive**: removed a non-content platform system file that was previously visible in the published archive listing. No changes to any intellectual content, case studies, framework, or metadata versus 2.0.1.
+
 ## [2.0.1] - 2026-07-27
 
 Patch release for academic rigor and metadata corrections in SUMMARY document. Published to Zenodo — version DOI [10.5281/zenodo.21629986](https://doi.org/10.5281/zenodo.21629986), concept DOI [10.5281/zenodo.21618895](https://doi.org/10.5281/zenodo.21618895) — and tagged [`v2.0.1`](https://github.com/derekhone/cif-giza-transmission/releases/tag/v2.0.1) on GitHub.
