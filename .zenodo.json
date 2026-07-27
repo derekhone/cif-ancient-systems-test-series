@@ -5,7 +5,7 @@
   "publication_type": "report",
   "access_right": "open",
   "license": "cc-by-4.0",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "language": "eng",
   "creators": [
     {
@@ -25,5 +25,5 @@
     "stewardship",
     "falsifiability"
   ],
-  "notes": "Series release 2.0.0. Concept DOI 10.5281/zenodo.21618895 (latest); version DOI 10.5281/zenodo.21628073. The foundational Giza case study was previously published at DOI 10.5281/zenodo.21618896. Source: https://github.com/derekhone/cif-giza-transmission (tag v2.0.0)."
+  "notes": "Series release 2.0.1 (patch release: evidence discipline and metadata corrections in SUMMARY). Concept DOI 10.5281/zenodo.21618895 (latest). The foundational Giza case study was previously published at DOI 10.5281/zenodo.21618896. Source: https://github.com/derekhone/cif-giza-transmission (tag v2.0.1)."
 }

@@ -9,6 +9,15 @@ and this project uses [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
 
 _No unreleased changes._
 
+## [2.0.1] - 2026-07-27
+
+Patch release for academic rigor and metadata corrections in SUMMARY document.
+
+### Fixed
+- **Evidence discipline in SUMMARY.md**: Changed "proof that" / "proves that" / "CIF stands" to academically safer "demonstrates that" / "illustrates that" / "supports CIF's central claim" (7 instances corrected)
+- **GitHub repository URL in SUMMARY.md**: Corrected from `derekjhone` to `derekhone` (canonical account path)
+- Academic rigor upgrade: historical case studies support/refine/illustrate CIF but cannot formally prove the whole framework
+
 ## [2.0.0] - 2026-07-27
 
 First complete release of the full **CIF Ancient Systems Test Series**: all eight case studies written, graded, and reconciled, with the capstone synthesis in place. Published to Zenodo — version DOI [10.5281/zenodo.21628073](https://doi.org/10.5281/zenodo.21628073), concept DOI [10.5281/zenodo.21618895](https://doi.org/10.5281/zenodo.21618895) — and tagged [`v2.0.0`](https://github.com/derekhone/cif-giza-transmission/releases/tag/v2.0.0) on GitHub.
