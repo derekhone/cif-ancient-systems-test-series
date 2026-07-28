@@ -59,6 +59,8 @@ Every case study in this series follows the same rules:
 - **A Falsification Check is mandatory.** Each study states what evidence *would* contradict CIF and asks whether the real case approaches it. Studies that merely confirm the framework are not accepted.
 - Each study ends with a **Final CIF Verdict** using a shared taxonomy: `SUPPORTED` · `PARTIALLY SUPPORTED` · `INCONCLUSIVE` · `CHALLENGED` · `FALSIFIED AS FRAMED`.
 
+**Research methodology and AI disclosure:** See [`METHODOLOGY.md`](./METHODOLOGY.md) for a full statement on research approach, AI-assisted drafting, evidence discipline, and credibility standards that govern this entire project.
+
 ---
 
 ## Case study index
