@@ -9,18 +9,22 @@ and this project uses [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
 
 _No unreleased changes._
 
-## [2.1.0] - 2026-07-27
+## [2.1.0] - 2026-07-28
 
-Minor release. Completes the per-document PDF set and corrects repository/status metadata across the series.
+Minor release. Adds **Series II ("recovery systems")** alongside the original Series I, plus a project-wide AI methodology disclosure and metadata corrections.
+
+> **DOI status:** The v2.1.0 **version DOI is pending.** A GitHub release and a Zenodo "sync" message do not by themselves mint a Zenodo deposit; as of this writing the live Zenodo record still shows v2.0.2 ([10.5281/zenodo.21630213](https://doi.org/10.5281/zenodo.21630213)) as the latest version. The concept DOI [10.5281/zenodo.21618895](https://doi.org/10.5281/zenodo.21618895) always resolves to the latest confirmed version. The v2.1.0 version DOI will be recorded here only after it is visible on the live Zenodo record.
+
+> **Verification status:** Series II is complete and publicly inspectable and was authored to the series' evidence discipline (ESTABLISHED / PLAUSIBLE / SPECULATIVE tagging, mandatory Falsification Check, full `sources.md` bibliographies). It has **not yet received a deliberate human verification pass**. Specific historical claims — exact dates, characterizations of "complete" or "permanent" loss, manufacturing-recovery claims, and technical comparisons — should be checked directly against the cited sources before Series II is described publicly as equal in rigor to Series I.
 
 ### Added
-- **PDF renderings for case studies 02–08**: `Aboriginal_Oral_Traditions_CIF.pdf`, `Antikythera_Mechanism_CIF.pdf`, `Late_Bronze_Age_Collapse_CIF.pdf`, `Japanese_Tsunami_Stones_CIF.pdf`, `Polynesian_Navigation_CIF.pdf`, `Gobekli_Tepe_CIF.pdf`, and `Undeciphered_Scripts_CIF.pdf`. Case 01 already carried its own PDF.
-- **Capstone synthesis PDF**: `synthesis/CIF_Ancient_Systems_Synthesis.pdf`, rendered from `synthesis/README.md`.
+- **Series II — `/recovery-systems/`**: eight recovery cases (01 Rosetta Stone, 02 Linear B, 03 Roman Concrete, 04 Ancient Music Reconstruction, 05 Wôpanâak Language Reclamation, 06 Apollo F-1 Engine, 07 BBC Domesday Project, 08 Greek Fire) plus a Series II synthesis, each with `sources.md` bibliography and PDF/DOCX renderings.
+- **`METHODOLOGY.md`**: project-wide research-methodology and AI-use disclosure (MD/PDF/DOCX), linked from `README.md`.
+- **PDF renderings for Series I case studies 02–08** and the capstone synthesis (`synthesis/CIF_Ancient_Systems_Synthesis.pdf`). Case 01 already carried its own PDF.
 
 ### Changed
-- **README status table**: cases 02–08 now show as **Published** (included in the series Zenodo deposit at v2.0.2+), each linking the series concept DOI, replacing the previous *Written* status. Footnote updated to explain the series-deposit vs. foundational-DOI distinction.
-- **`.zenodo.json` version** bumped to `2.1.0`.
-- **`CITATION.cff` version** bumped to `2.1.0`.
+- **README status table**: Series I cases 02–08 shown as **Published** (included in the series Zenodo deposit), each linking the series concept DOI.
+- **`.zenodo.json` / `CITATION.cff` version** bumped to `2.1.0`; `CITATION.cff` primary DOI/URL pointed at the concept DOI until the v2.1.0 version DOI is minted.
 
 ### Fixed
 - **`.zenodo.json` source URL**: corrected the `notes` field from the old repository name `cif-giza-transmission` to the current `cif-ancient-systems-test-series`.

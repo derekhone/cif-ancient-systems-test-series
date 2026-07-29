@@ -96,12 +96,13 @@ The capstone [`synthesis/README.md`](./synthesis/README.md) draws the cross-case
 
 ## Cite this work
 
-> Hone, D. A. (2026). *CIF Ancient Systems Test Series (incorporating The Giza Transmission Hypothesis)* (Version 2.0.2). Remnant Fieldworks Inc. https://doi.org/10.5281/zenodo.21630213
+> Hone, D. A. (2026). *CIF Ancient Systems Test Series (incorporating The Giza Transmission Hypothesis)*. Remnant Fieldworks Inc. https://doi.org/10.5281/zenodo.21618895
 
-A machine-readable citation is provided in [`CITATION.cff`](./CITATION.cff).
+A machine-readable citation is provided in [`CITATION.cff`](./CITATION.cff). For a stable citation, use the **concept DOI**, which always resolves to the latest confirmed version.
 
 - **Concept DOI** (always resolves to the latest version): [10.5281/zenodo.21618895](https://doi.org/10.5281/zenodo.21618895)
-- **Version DOI** (this 2.0.2 series release): [10.5281/zenodo.21630213](https://doi.org/10.5281/zenodo.21630213)
+- **Most recent confirmed version DOI** (v2.0.2): [10.5281/zenodo.21630213](https://doi.org/10.5281/zenodo.21630213)
+- **Series II / v2.1.0 version DOI:** *pending.* A GitHub release and a Zenodo "sync" message do not by themselves mint a deposit; the v2.1.0 version DOI will be listed here only after it appears on the live Zenodo record.
 - **Foundational Giza case study** (1.0.0): [10.5281/zenodo.21618896](https://doi.org/10.5281/zenodo.21618896)
 
 ---

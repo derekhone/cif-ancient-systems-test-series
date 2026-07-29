@@ -11,26 +11,33 @@ abstract: >-
   falsifiable, separates established fact from inference and speculation, and
   ends with a shared verdict taxonomy and a mandatory falsification check. The
   series includes the framework document, a cross-disciplinary grading review,
-  and a capstone synthesis.
+  and a capstone synthesis. Version 2.1.0 adds Series II ("recovery systems"):
+  eight further cases examining what can be recovered after a break — the
+  Rosetta Stone, Linear B, Roman concrete, ancient music reconstruction,
+  Wôpanâak language reclamation, the Apollo F-1 engine, the BBC Domesday
+  Project, and Greek Fire — with a Series II synthesis.
 version: 2.1.0
-date-released: 2026-07-27
+date-released: 2026-07-28
 authors:
   - family-names: Hone
     given-names: Derek Adam
     affiliation: Remnant Fieldworks Inc.
     email: derek@ownerremnantfieldworks.com
-doi: 10.5281/zenodo.21630213
+# Primary DOI points to the CONCEPT DOI, which always resolves to the latest
+# version. The version-specific DOI for v2.1.0 (Series II) will be added below
+# only after it is minted and visible on the live Zenodo record.
+doi: 10.5281/zenodo.21618895
 identifiers:
-  - type: doi
-    value: 10.5281/zenodo.21630213
-    description: "Version DOI for the 2.0.2 series release."
   - type: doi
     value: 10.5281/zenodo.21618895
     description: "Concept DOI (always resolves to the latest version of the series)."
   - type: doi
+    value: 10.5281/zenodo.21630213
+    description: "Most recent CONFIRMED version DOI (v2.0.2, Series I). The v2.1.0 version DOI is pending and will be added once live on Zenodo."
+  - type: doi
     value: 10.5281/zenodo.21618896
     description: "Version DOI of the foundational Giza case study (1.0.0)."
-url: https://doi.org/10.5281/zenodo.21630213
+url: https://doi.org/10.5281/zenodo.21618895
 license: CC-BY-4.0
 keywords:
   - Coherent Inheritance Framework
