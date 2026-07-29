@@ -15,7 +15,7 @@ Minor release. Adds **Series II ("recovery systems")** alongside the original Se
 
 > **DOI status:** The v2.2.0 **version DOI is pending.** A GitHub release and a Zenodo "sync" message do not by themselves mint a Zenodo deposit; the live Zenodo record showed v2.0.2 ([10.5281/zenodo.21630213](https://doi.org/10.5281/zenodo.21630213)) as the latest confirmed version at the time of writing. The concept DOI [10.5281/zenodo.21618895](https://doi.org/10.5281/zenodo.21618895) always resolves to the latest confirmed version. The v2.2.0 version DOI will be recorded here only after it is visible on the live Zenodo record.
 
-> **Verification status:** Series II is complete and publicly inspectable and was authored to the series' evidence discipline (ESTABLISHED / PLAUSIBLE / SPECULATIVE tagging, mandatory Falsification Check, full `sources.md` bibliographies). It has **not yet received a deliberate human verification pass**. Specific historical claims — exact dates, characterizations of "complete" or "permanent" loss, manufacturing-recovery claims, and technical comparisons — should be checked directly against the cited sources before Series II is described publicly as equal in rigor to Series I.
+> **Verification status:** A deliberate, human-directed verification pass over Series II was completed on 2026-07-29. Each case's historical claims (dates, characterizations of "complete"/"permanent" loss, manufacturing-recovery claims, and technical comparisons) were checked directly against the cited sources and independent references; the corrections that resulted are listed under *Fixed* below. Series II remains AI-assisted, author-directed research (see [`METHODOLOGY.md`](METHODOLOGY.md)), not peer-reviewed scholarship.
 
 ### Added
 - **Series II — `/recovery-systems/`**: eight recovery cases (01 Rosetta Stone, 02 Linear B, 03 Roman Concrete, 04 Ancient Music Reconstruction, 05 Wôpanâak Language Reclamation, 06 Apollo F-1 Engine, 07 BBC Domesday Project, 08 Greek Fire) plus a Series II synthesis, each with `sources.md` bibliography and PDF/DOCX renderings.
@@ -27,6 +27,13 @@ Minor release. Adds **Series II ("recovery systems")** alongside the original Se
 ### Fixed
 - **DOI integrity**: removed an erroneously introduced DOI (`10.5281/zenodo.14664076`) that had appeared only in draft release notes / working docs and never in repository files; reaffirmed concept DOI `10.5281/zenodo.21618895` and most-recent-confirmed version DOI `10.5281/zenodo.21630213` (v2.0.2).
 - **Version numbering**: Series II is released as **v2.2.0**; the earlier `v2.1.0` tag remains the PDF/metadata release it originally was (see below) and was not moved.
+- **Series II verification-pass corrections** (2026-07-29 human-directed review against cited sources):
+  - *03 Roman Concrete* — softened several "completely lost" / "knowledge was not transmitted" statements to reflect that Vitruvius's *De Architectura* preserved a partial textual account of the ingredients (rediscovered 1416); it was the practical high-performance manufacturing capability (especially marine and hot-mixed concrete), not all knowledge, that lapsed. The 2023 MIT hot-mixing and 2025 Pompeii findings were confirmed accurate and left unchanged.
+  - *05 Wôpanâak* — corrected the chronology of Jessie Little Doe Baird's education: she founded the WLRP in 1993 and *subsequently* earned an MS in linguistics from MIT (admitted 1996, completed 2000, working with Kenneth Hale); prior text implied the degree preceded the project and mislabeled it "Algonquian linguistics."
+  - *02 Linear B* — corrected a copy-paste artifact that referred to "Egyptologists" in the Mycenaean-Greek Falsification Check (now "scholars of Mycenaean Greek"); replaced an unreliable precise Linear A corpus figure with a qualitative comparison.
+  - *07 BBC Domesday* — fixed a typo ("ecosystemdependent" → "ecosystem-dependent").
+  - *01 Rosetta Stone* (`sources.md`) — relabeled a "British Museum collection database" citation whose URL actually pointed to a Wikimedia Commons image file.
+  - PDF/DOCX renderings regenerated for every corrected document; case 03 gained its previously-missing PDF/DOCX.
 
 ## [2.1.0] - 2026-07-27
 

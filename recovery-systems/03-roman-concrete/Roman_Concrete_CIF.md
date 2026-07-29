@@ -9,7 +9,7 @@
 
 ## Status
 
-This is a disciplined analysis of a partial recovery still in progress. The manufacturing method for Roman concrete was lost for over 1,500 years. Recent discoveries—particularly MIT's 2023 identification of "hot mixing" with quicklime—represent significant but incomplete method recovery. The product (ancient structures) survived; the process knowledge did not; reverse engineering has partially closed the gap.
+This is a disciplined analysis of a partial recovery still in progress. The practical capability to manufacture high-performance Roman concrete lapsed for over 1,500 years (even though Vitruvius's *De Architectura* preserved a partial textual description of the ingredients). Recent discoveries—particularly MIT's 2023 identification of "hot mixing" with quicklime—represent significant but incomplete method recovery. The product (ancient structures) survived; the process knowledge did not; reverse engineering has partially closed the gap.
 
 ---
 
@@ -17,7 +17,7 @@ This is a disciplined analysis of a partial recovery still in progress. The manu
 
 **Can a lost manufacturing method be recovered from surviving artifacts?**
 
-The Pantheon's unreinforced concrete dome—standing for nearly 2,000 years—demonstrates a material durability modern concrete cannot match. Roman maritime structures withstand seawater corrosion that destroys modern equivalents within decades. Yet by the early medieval period, the knowledge of how to produce this concrete had vanished completely.
+The Pantheon's unreinforced concrete dome—standing for nearly 2,000 years—demonstrates a material durability modern concrete cannot match. Roman maritime structures withstand seawater corrosion that destroys modern equivalents within decades. Yet by the early medieval period, the practical capability to produce concrete of this quality had effectively vanished—even though Vitruvius's first-century-BCE treatise, which described pozzolana and lime, survived in manuscript.
 
 The recovery question: Can examining surviving artifacts—chemical composition, microstructure, mineral phases—enable reverse engineering of a lost production method? And if method recovery succeeds, does it restore the original knowledge, or merely approximate it?
 
@@ -31,7 +31,7 @@ Cases 01 and 02 recovered *readers* (decoding systems). This case attempts to re
 
 - Roman concrete (*opus caementicium*) was used extensively from ~200 BCE to ~400 CE in structures including the Pantheon, Colosseum, aqueducts, and maritime installations.
 - The key ingredients: lime (calcium oxide), volcanic ash (pozzolana from Campi Flegrei region near Naples), aggregate (rock, brick fragments), and water.
-- The manufacturing method was lost after the Western Roman Empire's collapse; knowledge was not transmitted to medieval builders.
+- The practical manufacturing capability lapsed after the Western Roman Empire's collapse; while Vitruvius's *De Architectura* preserved a partial textual account of the ingredients (and was rediscovered in 1416), the high-performance capability—especially marine and hot-mixed concrete—was not carried forward by medieval builders.
 - Modern Portland cement-based concrete often deteriorates within 50–100 years; many Roman structures remain structurally sound after 2,000 years.
 - In 2014, researchers at UC Berkeley identified rare minerals (aluminous tobermorite, phillipsite) in Roman marine concrete that form through long-term seawater-volcanic ash reactions, explaining its resilience.
 - In 2023, MIT professor Admir Masic's team discovered that white "lime clasts" (previously dismissed as defects) result from "hot mixing" quicklime, creating a self-healing mechanism.
@@ -60,7 +60,7 @@ Cases 01 and 02 recovered *readers* (decoding systems). This case attempts to re
 - The "hot mixing" method using quicklime creates reactive lime clasts that enable self-healing when cracks form.
 - Roman marine concrete becomes stronger over time as seawater triggers crystallization of aluminous tobermorite.
 - Modern Portland cement lacks these self-healing mechanisms and corrodes in seawater.
-- The method was completely lost; medieval and Renaissance builders did not inherit Roman concrete knowledge.
+- The practical high-performance manufacturing capability lapsed; medieval and Renaissance builders did not reproduce Roman concrete's durability, even after Vitruvius's text was rediscovered in 1416.
 
 ### PLAUSIBLE INFERENCE
 
@@ -85,7 +85,7 @@ Roman concrete production operated within multiple fields:
 - **Institutional field:** Imperial engineering corps; centralized knowledge; trained builders; supply logistics.
 - **Chemical field:** Pozzolanic reactions; hydraulic setting; mineral crystallization.
 
-When the Western Empire collapsed, the institutional and supply fields vanished. Volcanic pozzolan was no longer transported across the empire; engineering knowledge was not transmitted to successor societies; lime production infrastructure decayed.
+When the Western Empire collapsed, the institutional and supply fields vanished. Volcanic pozzolan was no longer transported across the empire; much of the practical engineering knowledge was not transmitted to successor societies; lime production infrastructure decayed.
 
 The method became orphaned—artifacts survived, but the knowledge systems that produced them did not.
 
@@ -268,7 +268,7 @@ Not everything is recoverable:
 
 ## 9. Conclusions
 
-1. Roman concrete's manufacturing method was completely lost for over 1,500 years despite thousands of surviving structures demonstrating its superiority.
+1. Roman concrete's practical high-performance manufacturing capability lapsed for over 1,500 years despite thousands of surviving structures demonstrating its superiority—and despite Vitruvius's partial textual description surviving.
 
 2. Method recovery required modern materials science: electron microscopy, X-ray diffraction, chemical analysis. Physical observation alone (pre-20th century) was insufficient.
 

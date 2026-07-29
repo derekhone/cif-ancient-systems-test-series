@@ -37,7 +37,7 @@ The CIF question is not whether the revived language is "identical" to the lost 
 - The language was first written down in the 1650s–1660s by John Eliot, a Puritan missionary who translated the Bible into Wôpanâak with the assistance of Indigenous translators.
 - Eliot's Bible (1663) is the first complete Bible printed in North America and remains the most extensive written record of the language.
 - By the mid-19th century, colonization, forced assimilation, and population loss had reduced the number of speakers to near zero. The last known native speaker died in the 1850s.
-- Jessie Little Doe Baird, a Mashpee Wampanoag woman, founded the Wôpanâak Language Reclamation Project (WLRP) in 1993 after earning a master's degree in Algonquian linguistics from MIT.
+- Jessie Little Doe Baird, a Mashpee Wampanoag woman, founded the Wôpanâak Language Reclamation Project (WLRP) in 1993; she subsequently earned a master's degree in linguistics from MIT (admitted 1996, degree completed in 2000), working with the linguist Kenneth Hale.
 - By 2010, WLRP had developed teaching materials, trained teachers, and established immersion programs. Children are now being raised as first-language Wôpanâak speakers at home.
 
 ### Key Sources

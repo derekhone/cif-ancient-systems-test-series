@@ -7,7 +7,7 @@ Series: CIF Recovery Systems (Series II)
 
 ---
 
-> **Status & verification note.** Series II is **complete and publicly inspectable**, authored to the same evidence discipline as Series I (ESTABLISHED / PLAUSIBLE / SPECULATIVE tagging, a mandatory Falsification Check per case, and full `sources.md` bibliographies). It has **not yet received a deliberate human verification pass.** Before Series II is described publicly as equal in rigor to Series I, specific historical claims — exact dates, characterizations of "complete" or "permanent" loss, manufacturing-recovery claims, and technical comparisons — should be checked directly against the cited sources. This is AI-assisted, author-directed research, not peer-reviewed scholarship; see [`../METHODOLOGY.md`](../METHODOLOGY.md).
+> **Status & verification note.** Series II is **complete and publicly inspectable**, authored to the same evidence discipline as Series I (ESTABLISHED / PLAUSIBLE / SPECULATIVE tagging, a mandatory Falsification Check per case, and full `sources.md` bibliographies). A **deliberate, human-directed verification pass was completed on 2026-07-29**: each case's historical claims — exact dates, characterizations of "complete" or "permanent" loss, manufacturing-recovery claims, and technical comparisons — was checked directly against the cited sources and independent references, and the resulting corrections are recorded in [`../CHANGELOG.md`](../CHANGELOG.md). This remains AI-assisted, author-directed research, not peer-reviewed scholarship; see [`../METHODOLOGY.md`](../METHODOLOGY.md).
 
 ---
 

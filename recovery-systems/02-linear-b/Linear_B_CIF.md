@@ -241,7 +241,7 @@ Ventris succeeded partly because ~4,500 Linear B tablets survived. With only a h
 
 ### Limits of Structural Decipherment
 
-Linear A—the predecessor script to Linear B—remains undeciphered despite using many of the same signs. Why? Because the underlying language is unknown (likely non-Greek Minoan) and the corpus is too small (~1,500 signs total vs. ~4,500 tablets for Linear B).
+Linear A—the predecessor script to Linear B—remains undeciphered despite using many of the same signs. Why? Because the underlying language is unknown (likely non-Greek Minoan) and the surviving corpus is far smaller and less internally regular than the ~4,500 Linear B tablets that made structural analysis possible.
 
 **CIF implication:** Structural decipherment has boundaries:
 - It requires enough data to reveal patterns.
@@ -309,7 +309,7 @@ Alternatively, if structural decipherment had succeeded **without** any corpus r
 
 **No.**
 
-- Modern Egyptologists openly acknowledge pronunciation uncertainties, missing vocabulary, and approximations. The recovered Mycenaean Greek is a scholarly reconstruction based on later Greek dialects, not native fluency.
+- Modern scholars of Mycenaean Greek openly acknowledge pronunciation uncertainties, missing vocabulary, and approximations. The recovered Mycenaean Greek is a scholarly reconstruction based on later Greek dialects, not native fluency.
 - Linear B decipherment explicitly depended on internal regularity: Kober's inflection triplets, recurring administrative formulas, and place-name patterns. Without these, structural analysis would have failed (as evidenced by the still-undeciphered Linear A, which lacks sufficient corpus and known language connection).
 
 Linear B therefore supports, rather than challenges, CIF's recovery framework.

@@ -48,7 +48,7 @@
 
 ## Digital and Museum Resources
 
-- British Museum. "The Rosetta Stone." Collection database. https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Rosetta_Stone.JPG/1280px-Rosetta_Stone.JPG
+- Rosetta Stone (photograph of the object held by the British Museum). Image file via Wikimedia Commons. https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Rosetta_Stone.JPG/1280px-Rosetta_Stone.JPG
 
 - British Museum Blog. "Everything you ever wanted to know about the Rosetta Stone." https://www.britishmuseum.org/blog/everything-you-ever-wanted-know-about-rosetta-stone
 

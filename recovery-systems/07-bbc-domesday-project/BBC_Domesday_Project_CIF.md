@@ -99,7 +99,7 @@ The BBC Domesday Project operated within overlapping fields:
 
 When the technological and industrial fields collapsed—manufacturers stopped producing hardware, support ended, and knowledge workers moved on—the data became orphaned. Unlike the 1086 Domesday Book, which required no technological field to remain readable, the digital archive depended entirely on its technological ecosystem.
 
-**CIF implication:** Digital systems are ecosystemdependent. When the ecosystem collapses, the data becomes inaccessible even if physically intact.
+**CIF implication:** Digital systems are ecosystem-dependent. When the ecosystem collapses, the data becomes inaccessible even if physically intact.
 
 ### Axiom 2 — Productive Transfer Depends on Appropriate Matching
 
