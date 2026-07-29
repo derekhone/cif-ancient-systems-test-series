@@ -102,7 +102,7 @@ A machine-readable citation is provided in [`CITATION.cff`](./CITATION.cff). For
 
 - **Concept DOI** (always resolves to the latest version): [10.5281/zenodo.21618895](https://doi.org/10.5281/zenodo.21618895)
 - **Most recent confirmed version DOI** (v2.0.2): [10.5281/zenodo.21630213](https://doi.org/10.5281/zenodo.21630213)
-- **Series II / v2.1.0 version DOI:** *pending.* A GitHub release and a Zenodo "sync" message do not by themselves mint a deposit; the v2.1.0 version DOI will be listed here only after it appears on the live Zenodo record.
+- **Series II / v2.2.0 version DOI:** *pending.* A GitHub release and a Zenodo "sync" message do not by themselves mint a deposit; the v2.2.0 version DOI will be listed here only after it appears on the live Zenodo record.
 - **Foundational Giza case study** (1.0.0): [10.5281/zenodo.21618896](https://doi.org/10.5281/zenodo.21618896)
 
 ---
