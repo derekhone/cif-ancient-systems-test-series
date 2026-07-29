@@ -5,7 +5,7 @@
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21618895-blue.svg)](https://doi.org/10.5281/zenodo.21618895)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-> **What this is:** A series of disciplined, fully-cited case studies that stress-test the **Coherent Inheritance Framework (CIF)** against real archaeological and historical evidence — cases where human systems either preserved critical knowledge across generations, or lost it. Each study is written to be falsifiable: it asks not only where CIF is supported, but where the evidence *challenges* it.
+> **What this is:** Sixteen disciplined, fully-cited case studies that stress-test the **Coherent Inheritance Framework (CIF)** against real archaeological and historical evidence — cases where human systems either preserved critical knowledge across generations, lost it, or recovered it after a break. Each study is written to be falsifiable: it asks not only where CIF is supported, but where the evidence *challenges* it. Series I (8 original cases) examines transmission and loss. Series II (8 recovery cases, human-verified 2026-07-29) examines what can be recovered.
 
 ---
 
@@ -65,6 +65,8 @@ Every case study in this series follows the same rules:
 
 ## Case study index
 
+### Series I — Original case studies (8 cases)
+
 | # | Case study | Core question | Status |
 | --- | --- | --- | --- |
 | 01 | [The Giza Transmission Hypothesis](./case-studies/01-giza-transmission/) | Can meaning, not just data, survive deep-time discontinuity? | ✅ **Published** — [DOI](https://doi.org/10.5281/zenodo.21618896) · *Speculative / thought-experiment* |
@@ -76,7 +78,24 @@ Every case study in this series follows the same rules:
 | 07 | [Göbekli Tepe](./case-studies/07-gobekli-tepe/) | What was being transmitted before writing, agriculture, and cities? | ✅ **Published** — *Supported* · [series DOI](https://doi.org/10.5281/zenodo.21618895) |
 | 08 | [Undeciphered Scripts](./case-studies/08-undeciphered-scripts/) | When does data survive but meaning does not? | ✅ **Published** — *Supported* · [series DOI](https://doi.org/10.5281/zenodo.21618895) |
 
-*Published = included in the series Zenodo deposit (Concept DOI [10.5281/zenodo.21618895](https://doi.org/10.5281/zenodo.21618895)). Case 01 additionally carries its own foundational DOI. Published = minted at [10.5281/zenodo.21630213](https://doi.org/10.5281/zenodo.21630213) (v2.0.2, July 2026).*
+### Series II — Recovery systems (8 cases, human-verified 2026-07-29)
+
+| # | Case study | Core question | Status |
+| --- | --- | --- | --- |
+| 01 | [The Rosetta Stone](./recovery-systems/01-rosetta-stone/) | Can a parallel record unlock a lost language? | 📝 **Ready** — v2.2.0 pending publication |
+| 02 | [Linear B Decipherment](./recovery-systems/02-linear-b/) | What happens when method survives but meaning was lost? | 📝 **Ready** — v2.2.0 pending publication |
+| 03 | [Roman Concrete Recovery](./recovery-systems/03-roman-concrete/) | Can a lost manufacturing technique be reverse-engineered from surviving structures? | 📝 **Ready** — v2.2.0 pending publication |
+| 04 | [Ancient Music Reconstruction](./recovery-systems/04-ancient-music-reconstruction/) | How much of an auditory tradition can be recovered from notation alone? | 📝 **Ready** — v2.2.0 pending publication |
+| 05 | [Wôpanâak Language Reclamation](./recovery-systems/05-wopanaak-language/) | Can a language be revived from written records after the last speakers are gone? | 📝 **Ready** — v2.2.0 pending publication |
+| 06 | [Apollo F-1 Engine Recovery](./recovery-systems/06-apollo-f1-engine/) | When documentation exists but institutional knowledge has lapsed, can capability be restored? | 📝 **Ready** — v2.2.0 pending publication |
+| 07 | [BBC Domesday Project Recovery](./recovery-systems/07-bbc-domesday-project/) | What happens when the medium fails faster than the data decays? | 📝 **Ready** — v2.2.0 pending publication |
+| 08 | [Greek Fire](./recovery-systems/08-greek-fire/) | When a method is deliberately kept secret, can it survive at all? | 📝 **Ready** — v2.2.0 pending publication |
+
+**Series II synthesis:** [`recovery-systems/README.md`](./recovery-systems/README.md) draws cross-case patterns from the recovery cases.
+
+---
+
+*Published = included in the series Zenodo deposit. Concept DOI [10.5281/zenodo.21618895](https://doi.org/10.5281/zenodo.21618895) always resolves to the latest confirmed version. Series I (cases 02–08): confirmed at v2.0.2 [10.5281/zenodo.21630213](https://doi.org/10.5281/zenodo.21630213). Series II (recovery-systems cases, human-verified 2026-07-29): pending publication as v2.2.0. Case 01 additionally carries its own foundational DOI [10.5281/zenodo.21618896](https://doi.org/10.5281/zenodo.21618896).*
 
 ---
 

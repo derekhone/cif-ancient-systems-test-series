@@ -11,11 +11,12 @@ abstract: >-
   falsifiable, separates established fact from inference and speculation, and
   ends with a shared verdict taxonomy and a mandatory falsification check. The
   series includes the framework document, a cross-disciplinary grading review,
-  and a capstone synthesis. Version 2.1.0 adds Series II ("recovery systems"):
+  and a capstone synthesis. Version 2.2.0 adds Series II ("recovery systems"):
   eight further cases examining what can be recovered after a break — the
   Rosetta Stone, Linear B, Roman concrete, ancient music reconstruction,
   Wôpanâak language reclamation, the Apollo F-1 engine, the BBC Domesday
-  Project, and Greek Fire — with a Series II synthesis.
+  Project, and Greek Fire — with a Series II synthesis. Series II received a
+  human-directed verification pass on 2026-07-29.
 version: 2.2.0
 date-released: 2026-07-29
 authors:
