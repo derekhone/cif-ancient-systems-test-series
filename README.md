@@ -9,6 +9,18 @@
 
 ---
 
+## Zenodo Archive
+
+This repository is archived on Zenodo under open access (CC BY 4.0).
+
+| Record | DOI | Notes |
+|---|---|---|
+| Concept DOI (always resolves to latest version) | [10.5281/zenodo.21618895](https://doi.org/10.5281/zenodo.21618895) | Use for stable citations |
+| v2.0.2 (most recent confirmed version) | [10.5281/zenodo.21630213](https://doi.org/10.5281/zenodo.21630213) | |
+| v1.0.0 (foundational Giza case study) | [10.5281/zenodo.21618896](https://doi.org/10.5281/zenodo.21618896) | |
+
+---
+
 ## What is CIF?
 
 The **Coherent Inheritance Framework (CIF)** is a candidate cross-domain framework for understanding how systems receive structure, preserve continuity, lose alignment, recover coherence, and pass something forward across discontinuity.
