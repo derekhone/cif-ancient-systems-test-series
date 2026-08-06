@@ -1,3 +1,9 @@
+> **Repository Role:** Research Case Studies — CIF Applied to Archaeological Knowledge Transmission · Part of the [Remnant Fieldworks](https://remnantfieldworks.com) research and product ecosystem
+
+**Where this fits:** This repository is part of the Coherent Inheritance Framework (CIF) open-science program at Remnant Fieldworks. CIF investigates coherence dynamics across inheritance boundaries using preregistered, evidence-constrained methodology. This repository applies CIF to real archaeological and historical cases of knowledge transmission, loss, and survival across deep time. For the commercial product, see [ExecutionProof](https://executionproof.io).
+
+---
+
 # CIF Ancient Systems Test Series
 
 ### Applying the Coherent Inheritance Framework to real cases of knowledge transmission, loss, and survival across deep time
