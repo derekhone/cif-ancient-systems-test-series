@@ -21,7 +21,7 @@ version: 2.2.0
 date-released: 2026-07-29
 authors:
   - family-names: Hone
-    given-names: Derek Adam
+    given-names: Derek
     affiliation: Remnant Fieldworks Inc.
     email: derek@ownerremnantfieldworks.com
 # Primary DOI points to the CONCEPT DOI, which always resolves to the latest
